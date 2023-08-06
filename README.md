@@ -8,5 +8,6 @@ different factors)
 • Presented and communicated findings to a population of 40 people; responded to audience questions professionally and 
 accurately; submitted a written report with results using Tableau and VBA for data representation  
 •	Correlation analysis between the different nutrition factors to reduce the multi-collinearity.
+
 •	Created different regression models such as linear, quadratic models; evaluated the impact of interaction variables on model performance using SAS. 
 
